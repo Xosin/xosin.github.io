@@ -1,6 +1,6 @@
 [**javase**](javase)
 
-[**javaweb**](javaweb)
+[**javaweb**](javaweb/index.md)
 
 [**mysql**](mysql)
 
